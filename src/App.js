@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,18 +18,6 @@ function App() {
         >
           Learn React
         </a>
-        class App extends PureComponent {
-          constructor(props) {
-            super(props);
-            this.state = { Hello };
-          }
-          render() {
-            return (
-              
-            );
-          }
-        }
-        
         export default App;
       </header>
     </div>
