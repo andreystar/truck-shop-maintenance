@@ -1,3 +1,11 @@
+This is a project for a web application that will be used by a trucking company to communicate truck issues between drivers and shop technicians. The goal is to make it work as both web and mobile application. The plan is to use React as front end frame work, mobgoDB as a database.
+
+The application will include
+
+- log in authentication
+- Create a ticket for an issue
+-
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # truck-shop-maintenance
